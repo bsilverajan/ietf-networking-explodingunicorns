@@ -26,8 +26,8 @@ venue:
 author:
  -
     fullname: "Bill Silverajan"
-    organization: Your Organization Here
-    email: "bsilverajan@users.noreply.github.com"
+    organization: Tampere University
+    email: "bilhanan.silverajan@tuni.fi"
 
 normative:
 
