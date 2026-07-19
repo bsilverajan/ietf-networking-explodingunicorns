@@ -3,7 +3,7 @@
 
 
 Network Working Group                                      B. Silverajan
-Internet-Draft                                    Your Organization Here
+Internet-Draft                                        Tampere University
 Intended status: Informational                              19 July 2026
 Expires: 20 January 2027
 
@@ -107,5 +107,5 @@ Acknowledgments
 Author's Address
 
    Bill Silverajan
-   Your Organization Here
-   Email: bsilverajan@users.noreply.github.com
+   Tampere University
+   Email: bilhanan.silverajan@tuni.fi
