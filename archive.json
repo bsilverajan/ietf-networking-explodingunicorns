@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T03:33:01.533452+00:00",
+  "repo": "bsilverajan/ietf-networking-explodingunicorns",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKyLc7zhntu",
+      "title": "Update title in networking protocol draft",
+      "url": "https://github.com/bsilverajan/ietf-networking-explodingunicorns/pull/1",
+      "state": "MERGED",
+      "author": "bsilverajan",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:33:55Z",
+      "updatedAt": "2026-07-19T11:35:24Z",
+      "baseRepository": "bsilverajan/ietf-networking-explodingunicorns",
+      "baseRefName": "main",
+      "baseRefOid": "10cd43d4c52a84a3dbf08bed64e52f616a36673d",
+      "headRepository": "bsilverajan/ietf-networking-explodingunicorns",
+      "headRefName": "bsilverajan-patch-1",
+      "headRefOid": "9c0c822ec69f1c1f9ebab25414b3eae15730509e",
+      "closedAt": "2026-07-19T11:35:24Z",
+      "mergedAt": "2026-07-19T11:35:24Z",
+      "mergedBy": "bsilverajan",
+      "mergeCommit": {
+        "oid": "b59e8157e12486a49a5172eb989009587d04e913"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKyLc7zhrCO",
+      "title": "Update author information in networking protocol draft",
+      "url": "https://github.com/bsilverajan/ietf-networking-explodingunicorns/pull/2",
+      "state": "MERGED",
+      "author": "bsilverajan",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:39:42Z",
+      "updatedAt": "2026-07-19T11:44:28Z",
+      "baseRepository": "bsilverajan/ietf-networking-explodingunicorns",
+      "baseRefName": "main",
+      "baseRefOid": "b59e8157e12486a49a5172eb989009587d04e913",
+      "headRepository": "bsilverajan/ietf-networking-explodingunicorns",
+      "headRefName": "bsilverajan-patch-2",
+      "headRefOid": "b4505745bcb448cb1d897c17ed3d6d85dc6db61c",
+      "closedAt": "2026-07-19T11:44:28Z",
+      "mergedAt": "2026-07-19T11:44:28Z",
+      "mergedBy": "bsilverajan",
+      "mergeCommit": {
+        "oid": "19a27ac546d5fc6a210f99c67443e6e676fa1ecb"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
